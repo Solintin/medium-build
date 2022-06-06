@@ -5,7 +5,6 @@ import { sanityClient, urlFor } from '../../sanity'
 import { Post } from '../../typings'
 import PortabelText from 'react-portable-text'
 import { useForm, SubmitHandler } from 'react-hook-form'
-import { Comment } from '../../components/Comment'
 
 interface Props {
   post: Post
