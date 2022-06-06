@@ -8,7 +8,7 @@
 # testing
 /coverage
 
-/medium-build
+medium-build/node_modules
 # next.js
 /.next/
 /out/
