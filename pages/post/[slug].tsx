@@ -19,7 +19,6 @@ interface IFormInput {
 }
 
 const Post = ({ post }: Props) => {
-  console.log(post)
 
   const {
     register,
