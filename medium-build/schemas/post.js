@@ -1,3 +1,4 @@
+
 export default {
   name: 'post',
   title: 'Post',
@@ -6,6 +7,11 @@ export default {
     {
       name: 'title',
       title: 'Title',
+      type: 'string',
+    },
+    {
+      name: 'description',
+      title: 'Description',
       type: 'string',
     },
     {
